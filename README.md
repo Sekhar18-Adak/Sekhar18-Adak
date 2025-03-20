@@ -21,12 +21,7 @@
 
 **⚙️ Backend & Database:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**C** ![70%](https://progress-bar.dev/80/?title=)  
-**C++** ![90%](https://progress-bar.dev/75/?title=)  
-**HTML** ![90%](https://progress-bar.dev/90/?title=)  
-**CSS** ![85%](https://progress-bar.dev/85/?title=)  
-**JavaScript** ![70%](https://progress-bar.dev/70/?title=)  
-**Laravel** ![70%](https://progress-bar.dev/65/?title=)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sekhar18-Adak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📫 How to Reach Me
 📧 Email: adak.sekhar21@gmail.com
