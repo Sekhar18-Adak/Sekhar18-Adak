@@ -21,11 +21,6 @@
 
 **⚙️ Backend & Database:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-80%25-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-90%25-purple?style=for-the-badge)
-![C](https://img.shields.io/badge/C-85%25-lightgrey?style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sekhar18-Adak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
