@@ -21,9 +21,16 @@
 
 **⚙️ Backend & Database:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+**C** ![70%](https://progress-bar.dev/80/?title=)  
+**C++** ![90%](https://progress-bar.dev/75/?title=)  
+**HTML** ![90%](https://progress-bar.dev/90/?title=)  
+**CSS** ![85%](https://progress-bar.dev/85/?title=)  
+**JavaScript** ![70%](https://progress-bar.dev/70/?title=)  
+**Laravel** ![70%](https://progress-bar.dev/65/?title=)  
+
 # 📫 How to Reach Me
-📧 Email: sekharadak@example.com (Replace with your email)
-🔗 LinkedIn: Your LinkedIn Profile (Replace with your link)
+📧 Email: adak.sekhar21@gmail.com
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sekhar-adak-019581300/)
 
 # ⚡ Fun Fact
 🎯 I believe backend development is like magic—it powers everything but stays behind the scenes!
